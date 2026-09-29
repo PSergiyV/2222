@@ -27,7 +27,7 @@
           "title": "Площадь Рынок",
           "description": "Сердце старого города.",
           "previewURL": "lviv-rynok-preview.mp3",
-          "price": "49 грн",
+          "price": "100 грн",
           "buyURL": "https://example.com/pay/lviv-rynok",
           "stops": [
             { "name": "Ратуша", "lat": 49.8419, "lon": 24.0315 }
