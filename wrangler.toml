@@ -1,0 +1,14 @@
+name = "audio-tours"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://psergiyv.github.io"
+
+[[r2_buckets]]
+binding = "AUDIO"
+bucket_name = "audio-tours"
+
+[[kv_namespaces]]
+binding = "CODES"
+id = "ВСТАВЬТЕ_ID_ИЗ_ШАГА_2"
